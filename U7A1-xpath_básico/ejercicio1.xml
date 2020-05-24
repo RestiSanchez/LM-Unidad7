@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ies>
+  <nombre>IES Celia</nombre>
+  <web>https://iescelia.org</web>
+  <ciclos>
+    <ciclo id="ASIR">
+      <nombre>Administración de Sistemas Informáticos en Red</nombre>
+      <grado>Superior</grado>
+      <horasAnuales>2000</horasAnuales>
+      <decretoTitulo año="2009" />
+    </ciclo>
+    <ciclo id="DAW">
+      <nombre>Desarrollo de Aplicaciones Web</nombre>
+      <grado>Superior</grado>
+      <horasAnuales>2000</horasAnuales>
+      <decretoTitulo año="2010" />
+    </ciclo>
+    <ciclo id="SMR">
+      <nombre>Sistemas Microinformáticos y Redes</nombre>
+      <grado>Medio</grado>
+      <horasAnuales>2000</horasAnuales>
+      <decretoTitulo año="2008" />
+    </ciclo>
+  </ciclos>
+</ies>
